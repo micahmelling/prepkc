@@ -1,0 +1,11 @@
+*.DS_Store
+.idea/
+__pycache__/
+.pytest_cache/
+build/
+venv/
+*.txt
+!requirements.txt
+!LICENSE.txt
+*.png
+scratch.py
